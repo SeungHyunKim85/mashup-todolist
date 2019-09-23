@@ -8,14 +8,14 @@ const TodoTempleteBlock = styled.div`
   position: relative;
   background: white;
   border-radius: 16px;
-  box-shadow: 0 0 8px rgba(0, 0, 0, 0.04);
+  box-shadow: 0 0 8px 0 rgba(0, 0, 0, 0.04);
 
   margin: 0 auto;
+
   margin-top: 96px;
   margin-bottom: 32px;
-
   display: flex;
-  flex-directioin: column;
+  flex-direction: column;
 `;
 
 function TodoTemplete({ children }) {

@@ -3,7 +3,7 @@ import styled, { css } from 'styled-components';
 import { MdDone, MdDelete } from 'react-icons/md';
 
 const Remove = styled.div`
-  display: flex;
+  display: fle;
   align-items: center;
   justify-content: center;
   color: #dee2e6;

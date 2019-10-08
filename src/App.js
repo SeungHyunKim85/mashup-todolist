@@ -1,5 +1,5 @@
 import React from 'react';
-import { createGlobalStyle} from 'styled-components';
+import { createGlobalStyle } from 'styled-components';
 import TodoTemplete from './Components/TodoTemplete';
 import TodoHead from './Components/TodoHead';
 import TodoList from './Components/TodoList';
